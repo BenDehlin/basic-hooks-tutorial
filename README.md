@@ -12,12 +12,21 @@ to find the version of each component without any of the comments.
 
 
 Potential Additions:
+
 react:
+
 useRef, useContext, useReducer, useMemo
+
 useEffect with actual axios calls (requires setting up server)
+
 react-redux:
+
 useSelector, useDispatch
+
 react-router-dom:
+
 useHistory, useParams, useLocation
+
 Custom Hooks:
+
 useAxios, useInput, useAuth
