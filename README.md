@@ -11,9 +11,7 @@ to find the version of each component without any of the comments.
 
 
 
-########################################################################
 Potential Additions:
-########################################################################
 react:
 useRef, useContext, useReducer, useMemo
 useEffect with actual axios calls (requires setting up server)
